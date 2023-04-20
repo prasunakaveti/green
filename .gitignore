@@ -33,7 +33,9 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
-package-lock.json # we should only have yarn.lock
+package-lock.json 
+
+# we should only have yarn.lock
 
 # System Files
 .DS_Store
